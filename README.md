@@ -1,1 +1,2 @@
-# dotsample
+# Kubernetes-Dotnet-Sourcecode-POC
+
